@@ -45,4 +45,4 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vlad-Unic&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vlad-Unical&theme=dark&hide_border=%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9)](https://git.io/streak-stats)
