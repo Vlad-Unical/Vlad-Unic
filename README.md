@@ -25,3 +25,5 @@ I am a new FrondEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and walk the streets.
 
+
+  :hammer_and_wrench: Languages and Tools :
