@@ -19,7 +19,7 @@
 </div>
 ---
 :woman_technologist: About Me :
-I am a new FrondEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a new FrondEnd Developer from Ukraine.
 - :telescope: I am new to web development and every day I improve my knowledge in FrontEnd
 
 - :seedling: Development of sites of any difficulty
