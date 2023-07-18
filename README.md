@@ -17,8 +17,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 </div>
+---
 
-:woman_technologist: About Me :
+
+### :woman_technologist: About Me :
 - I am a new FrondEnd Developer from Ukraine.
 - :telescope: I am new to web development and every day I improve my knowledge in FrontEnd
 
