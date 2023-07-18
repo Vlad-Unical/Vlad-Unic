@@ -46,3 +46,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vlad-Unical&theme=dark&hide_border=%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad-Unical&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
